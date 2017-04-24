@@ -1,0 +1,14 @@
+{
+    "name": "administrator/demo",
+    "description": "test project",
+    "type": "no",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "est",
+            "email": "est1210@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
